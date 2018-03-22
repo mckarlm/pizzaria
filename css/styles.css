@@ -1,0 +1,36 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu|Courgette);
+
+body{
+  background-color: #6699ff;
+  background-image: url('../assets/warm.jpg');
+  border-color: 10px solid black;
+  padding: 0 0 30px 0;
+  margin: 0;
+  max-width: 770px;
+  margin: auto;
+}
+
+div{
+  background-color: white;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Courgette', cursive;
+  line-height: auto;
+  text-align: center;
+}
+
+h3{
+  border-bottom: 3px solid black;
+  border-radius:30px;
+  width: 250px;
+}
+
+.sectionTitle{
+  border-bottom: 3px solid black;
+  width: 150px;
+}
+
+.pizzaname{
+  border-bottom: 3px solid black
+}
